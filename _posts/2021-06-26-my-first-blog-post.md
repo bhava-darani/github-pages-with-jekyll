@@ -1,0 +1,6 @@
+---
+title: "Welcome to HI Blog"
+date: 2021-06-26
+---
+
+HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
